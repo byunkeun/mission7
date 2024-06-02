@@ -1,5 +1,5 @@
 // index.js
-
+import { response } from './config/response.js'
 import express from 'express';
 import { tempRouter } from './src/routes/temp.route.js';
 
